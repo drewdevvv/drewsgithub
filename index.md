@@ -10,4 +10,4 @@ Hi World!
 
 
 
-[Link](https://www.drewponce.dev/) and ![Image](https://www.canva.com/design/DAExJq9FK5o/9wBTruh4vE4oaxWePf_xOQ/view?utm_content=DAExJq9FK5o&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+[Link](https://www.drewponce.dev/) and ![Image](https://lh4.googleusercontent.com/7EXQgbw_ampZwKJkc-iRzGGNJJLPLBKiLWWg2BoGGiiNPQV885NSD0h_SVow0-d7t5hCDMQvg9SZIb4W9WCZfAume8-3tAJgX4lU2S4FTJBWs-wjKFIvR36lIXvZahbz0g=w1280)
