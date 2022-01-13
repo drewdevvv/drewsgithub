@@ -1,13 +1,7 @@
 Hi World!
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 
 # MY NAME IS ANDREW PONCE
 ## BUT YOU CAN CALL ME
@@ -16,4 +10,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 
-[Link](url) and ![Image](src)
+[Link](https://www.drewponce.dev/) and ![Image](https://www.canva.com/design/DAExJq9FK5o/9wBTruh4vE4oaxWePf_xOQ/view?utm_content=DAExJq9FK5o&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
